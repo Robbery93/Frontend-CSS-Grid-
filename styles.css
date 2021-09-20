@@ -1,5 +1,5 @@
 .grid-container {
-    background-color: #D8B4A0;
+    background-color: #D8B4A1;
     padding: 10px;
     display: grid;
     grid-gap: 16px;
@@ -16,7 +16,7 @@
 }
 
 .grid-item {
-    background-color: #D77A61;
+    background-color: #D77A62;
     padding: 10px;
     display: flex;
     flex-direction: row;
